@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akshay Bawaliwale( @AkshayAI007)
+- 👋 Hi, I’m Akshay Bawaliwale( @AkshayAI007), MTech- IIT Kharagpur'2021
 - 👀 I’m interested in Computer vision, NLP and AI
 - 🌱 I’m currently working in The Centre of excellence in AI-IIT Kharagpur as a Project assisant 
 - 💞️ I’m looking to collaborate on Computer vision using HPC, NLP For Low latenct Virtual assistant, AI for for Real time communication
