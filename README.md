@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Bawaliwale</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+<imag align = "right" alt='coding' width=400 src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fnetwork-technologies-connectivity-ITRemFlr5tS39AzQUL&psig=AOvVaw0a1NkeATrmS398ZZsAtrPm&ust=1694723300667000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjkubS2qIEDFQAAAAAdAAAAABAD'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayai007&label=Profile%20views&color=0e75b6&style=flat" alt="akshayai007" /> </p>
 
 - 🌱 I’m currently learning **NLP Specialization by Deeplearning.AI, Generative Adversarial Networks Specialization by DeepLearning.AI**
