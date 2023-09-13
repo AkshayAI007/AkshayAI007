@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay Bawaliwale</h1>
+[<h1 align="center">Hi 👋, I'm Akshay Bawaliwale</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <imag align = "right" alt='coding' width=400 src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fnetwork-technologies-connectivity-ITRemFlr5tS39AzQUL&psig=AOvVaw0a1NkeATrmS398ZZsAtrPm&ust=1694723300667000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjkubS2qIEDFQAAAAAdAAAAABAD'>
@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayai007&show_icons=true&locale=en" alt="akshayai007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayai007&" alt="akshayai007" /></p>
+](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoxMHI1aTJwOTBpZ3BycWdlbXhkMzJ4anpzNW4zd2E4NjFkOWdtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITRemFlr5tS39AzQUL/giphy-downsized-large.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoxMHI1aTJwOTBpZ3BycWdlbXhkMzJ4anpzNW4zd2E4NjFkOWdtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITRemFlr5tS39AzQUL/giphy-downsized-large.gif
