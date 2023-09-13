@@ -1,7 +1,7 @@
-![Screenshot 2023-09-14 025403](https://github.com/AkshayAI007/AkshayAI007/assets/110448324/921463cd-5646-4841-aa7b-edbd3fbed0e5)
+![Akshay bawaliwale (1)_page-0001](https://github.com/AkshayAI007/AkshayAI007/assets/110448324/7375c52b-79bc-4577-b583-e4801cc8d500)
 
-<h1 align="center">Hi 👋, I'm Akshay Bawaliwale</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h1 align="center">Hi, Welcome to my Github </h1>
+<h3 align="center">I Am a passionate Data Scientist from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayai007&label=Profile%20views&color=0e75b6&style=flat" alt="akshayai007" /> </p>
@@ -13,6 +13,7 @@
 - 💬 Ask me about **ML Models Development, Hyperparameter tuning, Statistics , Computervision,NLP**
 
 - 📫 How to reach me **akshay.bawali09@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
