@@ -3,12 +3,12 @@
 <h1 align="center">Hi, Welcome to my Github </h1>
 <h3 align="center">I Am a passionate Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="600" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
+<img align="right" alt="coding" width="550" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayai007&label=Profile%20views&color=0e75b6&style=flat" alt="akshayai007" /> </p>
 
 - 🌱 I’m currently learning **NLP Specialization by Deeplearning.AI, Generative Adversarial Networks Specialization by DeepLearning.AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AkshayAI007](https://github.com/AkshayAI007)
+- 👨‍💻 Highest Qualification : **MTech- Indian Institute of Technology,Kharagpur**
 
 - 💬 Ask me about **ML Models Development, Hyperparameter tuning, Statistics , Computervision,NLP**
 
