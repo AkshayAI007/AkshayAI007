@@ -1,3 +1,5 @@
+![Screenshot 2023-09-14 025403](https://github.com/AkshayAI007/AkshayAI007/assets/110448324/921463cd-5646-4841-aa7b-edbd3fbed0e5)
+
 <h1 align="center">Hi 👋, I'm Akshay Bawaliwale</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
