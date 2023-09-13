@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ML Models Development, Hyperparameter tuning, Statistics , Computervision,NLP**
 
-- 📫 How to reach me **akshay.bawali09@gmail.com**
+- 📫 How to reach me **akshay.aiml007@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
