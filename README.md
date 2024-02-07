@@ -1,16 +1,16 @@
 ![Akshay bawaliwale (1)_page-0001](https://github.com/AkshayAI007/AkshayAI007/assets/110448324/7375c52b-79bc-4577-b583-e4801cc8d500)
 
 <h1 align="center">Hi, Welcome to my Github </h1>
-<h3 align="center">I am a passionate Data Scientist from India</h3>
+<h3 align="center">I am an passionate Data science enthusiast from India</h3>
 
 <img align="right" alt="coding" width="550" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayai007&label=Profile%20views&color=0e75b6&style=flat" alt="akshayai007" /> </p>
 
-- 🌱 I’m currently learning **NLP Specialization by Deeplearning.AI, Generative Adversarial Networks Specialization by DeepLearning.AI**
+- 🌱 I’m currently learning **NLP Specialization by Deeplearning.AI,**
 
 - 👨‍💻 Highest Qualification : **MTech- Indian Institute of Technology,Kharagpur**
 
-- 💬 Ask me about **ML Models Development, Hyperparameter tuning, Statistics , Computervision,NLP**
+- 💬 Ask me about **ML Models Development, Hyperparameter tuning, Statistics ,NLP**
 
 - 📫 How to reach me **akshay.aiml007@gmail.com**
 
