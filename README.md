@@ -6,11 +6,11 @@
 <img align="right" alt="coding" width="550" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayai007&label=Profile%20views&color=0e75b6&style=flat" alt="akshayai007" /> </p>
 
-- 🌱 I’m currently learning **NLP Specialization by Deeplearning.AI,**
+- 🌱 I’m currently learning **Fine tuning S-O-T-A LLMs**
 
 - 👨‍💻 Highest Qualification : **MTech- Indian Institute of Technology,Kharagpur**
 
-- 💬 Ask me about **ML Models Development, Hyperparameter tuning, Statistics ,NLP**
+- 💬 Ask me about **Machine Learnig, SQL, Python, Statistics**
 
 - 📫 How to reach me **akshay.aiml007@gmail.com**
 
